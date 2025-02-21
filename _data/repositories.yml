@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gagazzotti
+  # - other_user
+  # - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - gagazzotti/Bilateral-GIG
+  - gagazzotti/LTABSS-Fragmentation-Equation
+  - gagazzotti/DIP-CTV-Image-Colorization
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
