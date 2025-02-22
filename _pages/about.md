@@ -28,4 +28,4 @@ Recently graduated from the École des Mines de Nancy, I am currently attending 
 
 I am passionate about research, especially in applied mathematics, mathematical finance, and machine learning.
 
-An updated list of the research projects  I have been involved [here](...). If you have any questions about the articles or the accompanying code, I would be more than happy to answer!
+An updated list of the research projects  I have been involved [here](/publications/). If you have any questions about the articles or the accompanying code, I would be more than happy to answer!
