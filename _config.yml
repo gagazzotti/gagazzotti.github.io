@@ -191,6 +191,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _projects/
+  - _pages/blog.md
+  - assets/audio/*.mp3
+  - assets/video/*.mp4
+  - _news/announcement_2.md
+  - _news/announcement_3.md
+  - _posts/*.md
+
+
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -265,7 +275,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Agazzotti]
-  first_name: [Gaaetano]
+  first_name: [Gaetano]
 
   style: apa
   locale: en
