@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper <b>Long time asymptotic behavior of a self-similar fragmentation equation
- </b> has just been accepted in the <em> Nonlinear Analysis</em> journal :sparkles:
+Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0362546X25000598"> <b> Long time asymptotic behavior of a self-similar fragmentation equation </b></a>
+has just been accepted in the <em> Nonlinear Analysis</em> journal :sparkles:
