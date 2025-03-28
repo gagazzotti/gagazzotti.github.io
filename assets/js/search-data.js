@@ -33,6 +33,9 @@ ninja.data = [{
         },{id: "news-our-paper-calibration-and-option-pricing-with-stochastic-volatility-and-double-exponential-jumps-has-just-been-accepted-in-the-journal-of-computational-and-applied-mathematics-sparkles",
           title: 'Our paper Calibration and option pricing with stochastic volatility and double exponential jumps...',
           description: "",
+          section: "News",},{id: "news-our-paper-long-time-asymptotic-behavior-of-a-self-similar-fragmentation-equation-has-just-been-accepted-in-the-nonlinear-analysis-journal-sparkles",
+          title: 'Our paper Long time asymptotic behavior of a self-similar fragmentation equation has just...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
