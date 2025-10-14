@@ -36,6 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-long-time-asymptotic-behavior-of-a-self-similar-fragmentation-equation-has-just-been-accepted-in-the-nonlinear-analysis-journal-sparkles",
           title: 'Our paper Long time asymptotic behavior of a self-similar fragmentation equation has just...',
           description: "",
+          section: "News",},{id: "news-our-paper-calibration-and-option-pricing-with-stochastic-volatility-and-double-exponential-jumps-was-presented-by-j-p-aguilar-at-the-mathematical-finance-seminar-of-texas-tech-university-on-2025-09-19",
+          title: 'Our paper Calibration and option pricing with stochastic volatility and double exponential jumps...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-fast-and-explicit-european-option-pricing-under-tempered-stable-processes-is-now-available-with-its-companion-repository-ts-pricing",
+          title: 'Our preprint Fast and explicit European option pricing under tempered stable processes is...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
