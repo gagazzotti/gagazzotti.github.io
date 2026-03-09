@@ -24,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Recently graduated from the École des Mines de Nancy, I am currently attending the MVA master's program at ENS Paris-Saclay.
+Recently graduated from the MVA master at ENS Paris-Saclay and Ecole des Mines de Nancy, I am a
+a first year PhD. student under the supervision of [A. Chambolle](https://www.ceremade.dauphine.fr/~chambolle/) and [C. Royer](https://www.lamsade.dauphine.fr/~croyer/). My work is focused on the use of primal-dual algorithms for transportation problems. 
+<!-- I am passionate about research, especially in applied mathematics, mathematical finance, and machine learning. -->
 
-I am passionate about research, especially in applied mathematics, mathematical finance, and machine learning.
+Before starting my PhD., I worked on mathematical finance, real analysis and machine learning. 
 
 An updated list of the research projects  I have been involved [here](/publications/). If you have any questions about the articles or the accompanying code, I would be more than happy to answer!
